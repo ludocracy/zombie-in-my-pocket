@@ -17,7 +17,24 @@ Based on https://boardgamegeek.com/boardgame/33468/zombie-my-pocket by Jeremiah 
 ## IMPORTANT
 - E-mail the creator for permission to deploy a non-paper version of their game.
 
-## Components
+## Tasks
+- Create components
+  - match JSX to structure of information on game piece
+  - create states
+  - create functions
+  - basic styling
+- redux
+  - reducers
+  - separate container components
+  - connect components
+- UX review
+  - visual design
+  - layout
+  - animations/feedback
+- first demo and playtest
+
+## Major Components
+Many of these will need to be further broken down into subcomponents not listed here.
 - Dev card
   - 3 decks
     - 9, 10, 11 am
